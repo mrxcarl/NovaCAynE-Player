@@ -1,0 +1,4 @@
+customtkinter==6.0.0
+mutagen==1.47.0
+Pillow==12.3.0
+pygame==2.6.1
